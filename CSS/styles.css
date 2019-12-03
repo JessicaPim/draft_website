@@ -1,0 +1,33 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+body {
+  color: blue;
+  font-family: fantasy;
+  margin: opx;
+}
+
+
+h1 {
+  font-size: 5em;
+  color: blue;
+  align: center;
+}
+
+
+img {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 130px;
+}
+
+Unfortunately, the level of CSS that I am able to write is nowhere near as good as the CSS I need.
+
+NOTES:
+Give things a 'class' in HTML then in CSS I can link the colours and stuff to that specific class.
